@@ -2,20 +2,20 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Front-End+Web+Developer;Motion+Graphic+Designer;Image+Processing+Enthusiast;Python+Developer;Always+Learning+New+Things)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Front-End+Web+Developer;Motion+Graphic+Designer;UI/UX+Enthusiast;Creative+Developer;Always+Learning+New+Things)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **Computer Science Student** at Semester 7, specializing in **Front-End Web Development** and **Motion Graphic Design**. I combine technical programming skills with creative design to build stunning web experiences and engaging visual content. Also passionate about **Image Processing** and **Computer Vision**.
+I'm a **Computer Science Student** at Semester 7, specializing in **Front-End Web Development** and **Motion Graphic Design**. I combine technical programming skills with creative design to build stunning web experiences and engaging visual content.
 
-- 💻 I'm a **Front-End Web Developer** crafting beautiful and responsive websites
-- 🎨 I'm a **Motion Graphic Designer** creating captivating animations and visual stories
-- 🔭 Currently working on **Web Development & Image Processing Projects**
-- 🌱 Learning **React, Three.js, Computer Vision, and Advanced Animation Techniques**
+- 💻 **Front-End Web Developer** - Crafting beautiful and responsive websites
+- 🎨 **Motion Graphic Designer** - Creating captivating animations and visual stories
+- 🔭 Currently working on **Web Development & UI/UX Projects**
+- 🌱 Learning **React, Three.js, WebGL, and Advanced Animation Techniques**
 - 💡 I love to blend creativity with code to build innovative solutions
-- 📫 How to reach me: **billynabil@example.com** (update with your email)
+- 📫 How to reach me: **billynabil.nb123@gmail.com**
 
 ---
 
@@ -45,13 +45,6 @@ I'm a **Computer Science Student** at Semester 7, specializing in **Front-End We
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-### Python & Data Science
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -104,13 +97,18 @@ I'm a **Computer Science Student** at Semester 7, specializing in **Front-End We
 ## 🎯 Featured Projects
 
 ### 🖼️ [Image to Matrix RGB Converter](https://github.com/BillyNabil/Image-to-Matrix-RGB-)
-A Python application with GUI to convert images into RGB matrices with live hover preview.
-- 📁 Upload images and view preview
-- 🔢 Display RGB matrix values
-- 🎨 Real-time hover effect showing pixel coordinates and colors
+A Python desktop application with modern GUI for converting images into RGB matrices with interactive hover preview.
+- 📁 Upload and preview images
+- 🔢 Real-time RGB matrix display with coordinates
+- 🎨 Interactive hover effect showing pixel info and color preview
 - 💾 Export to multiple formats (TXT, CSV, NPY)
 
 **Tech Stack:** `Python` `Tkinter` `NumPy` `Pillow`
+
+---
+
+### 🌐 More Projects Coming Soon!
+I'm constantly working on new web development and motion graphics projects. Stay tuned for updates!
 
 ---
 
@@ -118,10 +116,10 @@ A Python application with GUI to convert images into RGB matrices with live hove
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billynabil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabilalfaros)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BillyNabil)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billynabil@example.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/billynabil)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billynabil.nb123@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/billynabil_)
 
 </div>
 
